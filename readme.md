@@ -12,8 +12,8 @@ This repository manages the internationalization (`i18n`) translation files for 
 ---
 
 ## 🌍 支援的語言 / Supported Languages
-我們目前計畫支援以下語言：
-We currently plan to support the following languages:
+我們目前計畫支援以下語言 (僅支援官方目前開放的語言)：
+We currently plan to support the following languages (only support the languages that the official has opened):
 
 - 🇹🇼 **繁體中文** (`zh-TW`) ✅ **（基礎翻譯 / Base Translation）**
 - 🇺🇸 **英文** (`en`) ✅ **（基礎翻譯 / Base Translation）**
