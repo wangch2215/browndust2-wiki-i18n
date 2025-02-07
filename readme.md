@@ -29,28 +29,32 @@ We currently plan to support the following languages:
 ├── en/       # English (Base Translation)
 │   ├── bd2/
 │   │   ├── _bd2_commons.ts
+│   │   ├── ... Common words in the game
 │   ├── layout/
 │   │   ├── _commons.ts
 │   │   ├── _navs.ts
+│   │   ├── ... Common words on the website
 │   ├── views/
 │   │   ├── characters.ts
 │   │   ├── costumes.ts
 │   │   ├── home.ts
 │   │   ├── weapons.ts
-│   │   ├── index.ts
+│   │   ├── ... Each page's translation
 │
 ├── zh-TW/    # 繁體中文 (Base Translation)
 │   ├── bd2/
 │   │   ├── _bd2_commons.ts
+│   │   ├── ... 遊戲內常用詞彙
 │   ├── layout/
 │   │   ├── _commons.ts
 │   │   ├── _navs.ts
+│   │   ├── ... 網站通用詞彙
 │   ├── views/
 │   │   ├── characters.ts
 │   │   ├── costumes.ts
 │   │   ├── home.ts
 │   │   ├── weapons.ts
-│   │   ├── index.ts
+│   │   ├── ...各個頁面的翻譯
 │
 ├── zh-CN/    # 简体中文 (Clone from zh-TW)
 ├── ja/       # 日本語 (Clone from en)
@@ -76,11 +80,5 @@ If you are not familiar with Git, you can also suggest translations in our **Dis
 
 ---
 
-## 🎯 未來計畫 / Future Plans
-我們計畫：
-We plan to:
-- ✅ **完成核心 Wiki 頁面翻譯 / Complete core Wiki translations**
-- 🌍 **擴展到更多語言（根據社群需求） / Expand to more languages (based on community needs)**
-- 🚀 **優化翻譯流程，提高貢獻者體驗 / Improve translation workflow for contributors**
-
-感謝你的參與！💙 / Thank you for your contribution! 💙
+感謝你的參與！ / Thank you for your contribution!
+作者：曹齊白 / Author: Souseihaku
