@@ -65,20 +65,20 @@ We currently plan to support the following languages:
 
 ## 🛠 如何貢獻翻譯？/ How to Contribute Translations?
 
-我們歡迎所有人幫助改善翻譯！請按照以下步驟貢獻：
-We welcome everyone to help improve translations! Please follow these steps:
+我們歡迎所有人幫助改善翻譯！請按照以下步驟貢獻：  
+We welcome everyone to help improve translations! Please follow these steps:  
 
-1️⃣ **Fork 本倉庫 / Fork this repository**
-2️⃣ **選擇 `en/` 或 `zh-TW/` 作為基礎，複製至新語言資料夾**
-    - 📝 **簡體中文** → 請從 `zh-TW` 複製
-    - 📝 **日文 / 韓文** → 請從 `en` 複製
-3️⃣ **修改內容後提交 PR（Pull Request） / Edit translations and submit a PR**
-4️⃣ **等待審核與合併 / Wait for review and merge** 🎉
+1️⃣ **Fork 本倉庫 / Fork this repository**  
+2️⃣ **選擇 `en/` 或 `zh-TW/` 作為基礎，複製至新語言資料夾**  
+    - 📝 **簡體中文** → 請從 `zh-TW` 複製  
+    - 📝 **日文 / 韓文** → 請從 `en` 複製  
+3️⃣ **修改內容後提交 PR（Pull Request） / Edit translations and submit a PR**  
+4️⃣ **等待審核與合併 / Wait for review and merge** 🎉  
 
-如果你不熟悉 Git，也可以在 **Discord** 內提供翻譯建議！
+如果你不熟悉 Git，也可以在 **Discord** 內提供翻譯建議！  
 If you are not familiar with Git, you can also suggest translations in our **Discord**!
 
 ---
 
-感謝你的參與！ / Thank you for your contribution!
-作者：曹齊白 / Author: Souseihaku
+感謝你的參與！ / Thank you for your contribution!  
+作者：曹齊白 / Author: Souseihaku  
