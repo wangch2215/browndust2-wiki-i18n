@@ -7,7 +7,7 @@ Welcome to the **Browndust2 Wiki I18n** project.
 This repository manages the internationalization (`i18n`) translation files for **Browndust2 Wiki**, aiming to make it easier for players to browse and edit the Wiki in their preferred language.
 
 📌 **BD2 Wiki**：[Browndust2 Wiki](https://browndust2-wiki.pages.dev/)
-📌 **BD2 Wiki Discord**：[加入我們 / Join us!](https://discord.gg/PzBNacyXQW)
+📌 **BD2 Wiki Discord**：[加入我們 / Join us](https://discord.gg/PzBNacyXQW)
 
 ---
 
